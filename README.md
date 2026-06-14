@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sami 👋
 
-<!--
-**samiahmed90/samiahmed90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+🎓 Computer Science student with a concentration in Cybersecurity
 
-Here are some ideas to get you started:
+🔒 Interested in:
+- Cybersecurity
+- Python
+- Cloud Computing
+- Networking
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications:
+- CompTIA Security+
+- CompTIA Network+
+- AWS Certified Cloud Practitioner
+
+🌱 Currently learning:
+- Python
+- Security concepts
+- Cloud technologies
+- Hands-on cybersecurity projects
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+## 📫 Connect with me
+
+LinkedIn: Your LinkedIn URL
