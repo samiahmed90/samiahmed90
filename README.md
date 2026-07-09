@@ -33,6 +33,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Splunk]
+(https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 ## 📫 Connect with me
 
 LinkedIn: https://www.linkedin.com/in/muhammad-sami-ahmed-475054274?utm_source=share_via&utm_content=profile&utm_medium=member_ios
